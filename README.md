@@ -1,2 +1,2 @@
 # CarryTrade
-Standard UIP regressions of advanced economies and EMEs, carry trade analysis of UIP, and deviations from CIP.
+This repository is in support of Georgetown University graduate level International Finance, summer 2020 course.  I run a standard UIP regression for 25 advanced economies and EMEs with data covering 1998M1 through 2017M3.  Additionaly, deviations from CIP are analyzed using regressions based on prior work from Engel (2016) and Du, Tepper, and Verdelhan (2017).  I construct a regression to test for deviations from CIP over two periods; 2000M2 through 2008M6 and 2008M7 through 2017M3.  Finally, I construct carry trade UIP analysis of 25 currencies relative the the U.S. dollar based on data from 2000M2 through 2017M3.
